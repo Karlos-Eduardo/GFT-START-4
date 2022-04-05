@@ -1,0 +1,13 @@
+C:\Users\Karlos Eduardo\OneDrive - Fatec Centro Paula Souza\GFT\bin\Debug\netcoreapp3.1\GFT.exe
+C:\Users\Karlos Eduardo\OneDrive - Fatec Centro Paula Souza\GFT\bin\Debug\netcoreapp3.1\GFT.deps.json
+C:\Users\Karlos Eduardo\OneDrive - Fatec Centro Paula Souza\GFT\bin\Debug\netcoreapp3.1\GFT.runtimeconfig.json
+C:\Users\Karlos Eduardo\OneDrive - Fatec Centro Paula Souza\GFT\bin\Debug\netcoreapp3.1\GFT.runtimeconfig.dev.json
+C:\Users\Karlos Eduardo\OneDrive - Fatec Centro Paula Souza\GFT\bin\Debug\netcoreapp3.1\GFT.dll
+C:\Users\Karlos Eduardo\OneDrive - Fatec Centro Paula Souza\GFT\bin\Debug\netcoreapp3.1\GFT.pdb
+C:\Users\Karlos Eduardo\OneDrive - Fatec Centro Paula Souza\GFT\obj\Debug\netcoreapp3.1\GFT.csprojAssemblyReference.cache
+C:\Users\Karlos Eduardo\OneDrive - Fatec Centro Paula Souza\GFT\obj\Debug\netcoreapp3.1\GFT.AssemblyInfoInputs.cache
+C:\Users\Karlos Eduardo\OneDrive - Fatec Centro Paula Souza\GFT\obj\Debug\netcoreapp3.1\GFT.AssemblyInfo.cs
+C:\Users\Karlos Eduardo\OneDrive - Fatec Centro Paula Souza\GFT\obj\Debug\netcoreapp3.1\GFT.csproj.CoreCompileInputs.cache
+C:\Users\Karlos Eduardo\OneDrive - Fatec Centro Paula Souza\GFT\obj\Debug\netcoreapp3.1\GFT.dll
+C:\Users\Karlos Eduardo\OneDrive - Fatec Centro Paula Souza\GFT\obj\Debug\netcoreapp3.1\GFT.pdb
+C:\Users\Karlos Eduardo\OneDrive - Fatec Centro Paula Souza\GFT\obj\Debug\netcoreapp3.1\GFT.genruntimeconfig.cache
